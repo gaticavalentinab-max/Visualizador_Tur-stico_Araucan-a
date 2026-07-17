@@ -1,2 +1,2 @@
-# Visualizador_Tur-stico_Araucan-a
+# Visualizador_Turistico_Araucania
 Visualizador de rutas y lugares turísticos/patrimoniales en la región de la Araucanía
